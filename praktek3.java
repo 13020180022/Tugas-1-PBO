@@ -1,0 +1,9 @@
+public class praktek3{
+
+public static void main(String[]args){
+
+System.out.println("saya belajar pemrograman java");
+}
+
+
+}
